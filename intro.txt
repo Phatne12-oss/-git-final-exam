@@ -8,3 +8,9 @@ Sở Thích:
 Bơi Lội, Đánh branch
 
 Kỹ Năng: Thượng Thừa
+Kế hoạch học tập:
+1. Ôn lại kiến thức Git và GitHub hàng ngày.
+2. Hoàn thành bài thực hành lập trình mỗi tuần.
+3. Tham gia thảo luận nhóm để học hỏi thêm.
+4. Làm project nhỏ áp dụng kỹ năng Git.
+5. Chuẩn bị tốt cho bài kiểm tra cuối kỳ.
